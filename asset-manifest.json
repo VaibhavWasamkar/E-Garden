@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/E-Garden/static/css/main.bf073cb2.css",
+    "main.js": "/E-Garden/static/js/main.af722992.js",
+    "static/media/landing-bg.jpg": "/E-Garden/static/media/landing-bg.13990dc4b5ce2fcb8c93.jpg",
+    "index.html": "/E-Garden/index.html",
+    "main.bf073cb2.css.map": "/E-Garden/static/css/main.bf073cb2.css.map",
+    "main.af722992.js.map": "/E-Garden/static/js/main.af722992.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf073cb2.css",
+    "static/js/main.af722992.js"
+  ]
+}
